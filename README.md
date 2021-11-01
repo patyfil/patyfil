@@ -9,7 +9,7 @@ Meu nome é Patrícia M. de Souza.
 
 
 
-- 🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript, PHP, GitHub e Acessibilidade.
+- 🌱 Atualmente estou aprendendo Python.
 - ⚡ Curiosity: Sou formada em Redes de Computadores, apaixonada por eletrônica e cultura maker.
 
 ## Tecnologias
