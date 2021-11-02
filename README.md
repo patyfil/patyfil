@@ -1,4 +1,8 @@
-# Olá 👋
+<h1>
+  <p align="center">
+    Hi, I’m <i>Patrícia</i> 👋
+  </p>
+</h1>
 
 Meu nome é Patrícia M. de Souza.
 
