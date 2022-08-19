@@ -12,7 +12,7 @@
 
 
 
-- 🌱 Atualmente estou aprendendo Python.
+- 🌱 Atualmente estou aprendendo JavaScript.
 - ⚡ Curiosity: Sou formada em Redes de Computadores, apaixonada por eletrônica e cultura maker.
 
 <h1>Estudando/Learning:</h1>
