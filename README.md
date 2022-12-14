@@ -17,27 +17,34 @@
  <img align="center" src="https://img.shields.io/badge/-laboratorio--maker-05122A?style=flat&logo=Youtube&logoColor=red&link=https://bit.ly/laboratoriomaker" alt="youtube"/>  
 </a>  
 
-<br><br>  
+<br>  
 
 - 🌱 Atualmente estou aprendendo JavaScript.
 - ⚡ Curiosity: Sou formada em Redes de Computadores, apaixonada por eletrônica e cultura maker.
 
-<br><br>  
+<br>  
 
-## ✍ &nbsp;Estudando/Learning:  
+<!-- ## ✍ &nbsp;Estudando/Learning:   -->
+## :book: &nbsp;Conhecimentos/knowledge:  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
+![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/c-05122A?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-05122A?style=for-the-badge&logo=figma)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![MySql](https://img.shields.io/badge/-mysql-05122A?style=for-the-badge&logo=mysql)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![PHP](https://img.shields.io/badge/php-05122A?style=for-the-badge&logo=php&logoColor=blue)&nbsp;
+![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Selenium](https://img.shields.io/badge/-selenium-05122A?style=for-the-badge&logo=selenium&logoColor=green)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite&logoColor=%2307405e)&nbsp;
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-05122A?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
 
 
