@@ -5,10 +5,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-FFF?style=flat-square&logo=Github&logoColor=black&link=https://github.com/patyfil)](https://github.com/patyfil)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patyfil/)](https://www.linkedin.com/in/patyfil/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patyfil@gmail.com)](mailto:patyfil@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/patyfil)](https://twitter.com/patyfil)
 [![youtube Badge](https://img.shields.io/badge/-Youtube-white?style=flat-square&logo=Youtube&logoColor=red&link=https://bit.ly/laboratoriomaker)](https://bit.ly/laboratoriomaker)
 [![instagram](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=05122A?&link=https://instagram.com/laboratorio.maker)](https://instagram.com/laboratorio.maker)
 
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/patyfil)](https://twitter.com/patyfil) -->
 
 <a href="https://instagram.com/laboratorio.maker" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-laboratorio.maker-05122A?style=flat&logo=instagram" alt="instagram"/>  
