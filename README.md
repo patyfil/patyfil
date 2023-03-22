@@ -39,7 +39,14 @@
 
 <!-- <code><img height="32" src="" alt="Redux"/></code> -->
 
+## 💿 &nbsp;Sistema Operacional/SO:  
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=black)
 
+<p align="left">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=patyfil&&show_icons=true&theme=radical" alt="patricia's stats"/>  <br><br>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patyfil&layout=compact&theme=radical" alt="patricia's most languages"/>  
+</p>
 
 
 <!-- ![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
@@ -104,17 +111,6 @@ Deploy: <a href="https://nlw-copa-qatar-trilha-explorer-rocketseat.vercel.app/" 
 Código: [GitHub](https://github.com/patyfil/NLW-CopaQatar-Trilha-Explorer-Rocketseat)      
       
 <br>
-
-
-
-## 💿 &nbsp;Sistema Operacional/SO:  
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=black)
-
-<p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=patyfil&&show_icons=true&theme=radical" alt="patricia's stats"/>  <br><br>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patyfil&layout=compact&theme=radical" alt="patricia's most languages"/>  
-</p>
 
 
 <!-- 
