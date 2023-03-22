@@ -1,6 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I’m <i>Patrícia</i> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patyfil&color=yellow" alt="Profile views" /> </p>
 
+<br> 
 
 [![Github Badge](https://img.shields.io/badge/-Github-FFF?style=flat-square&logo=Github&logoColor=black&link=https://github.com/patyfil)](https://github.com/patyfil)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patyfil/)](https://www.linkedin.com/in/patyfil/)
@@ -8,19 +9,11 @@
 [![youtube Badge](https://img.shields.io/badge/-Youtube-white?style=flat-square&logo=Youtube&logoColor=red&link=https://bit.ly/laboratoriomaker)](https://bit.ly/laboratoriomaker)
 [![instagram](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=05122A?&link=https://instagram.com/laboratorio.maker)](https://instagram.com/laboratorio.maker)
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/patyfil)](https://twitter.com/patyfil) -->
-
-<a href="https://instagram.com/laboratorio.maker" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-laboratorio.maker-05122A?style=flat&logo=instagram" alt="instagram"/>  
-</a>
-<a href="https://bit.ly/laboratoriomaker" target="_blank">  
- <img align="center" src="https://img.shields.io/badge/-laboratorio--maker-05122A?style=flat&logo=Youtube&logoColor=red&link=https://bit.ly/laboratoriomaker" alt="youtube"/>  
-</a>  
 
 <br>  
-<!-- ## ✍ &nbsp;Estudando/Learning:   -->
-- 🌱 Atualmente estou aprendendo JavaScript.
-- ⚡ Curiosity: Sou formada em Redes de Computadores, apaixonada por eletrônica e cultura maker.
+
+- 🌱 Atualmente estou aprendendo JavaScript.  
+- ⚡ Curiosity: Sou formada em Redes de Computadores, apaixonada por eletrônica e cultura maker.  
 
 <br>  
 
