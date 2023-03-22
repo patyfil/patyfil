@@ -74,6 +74,31 @@
 
 ## 🔭 Alguns projetos:
 
+<a href="https://patyfil.github.io/cs50-cc50-harvard/" target="_blank">Curso Harvard - CS50</a>
+
+<a href="https://editor.p5js.org/patyfil/full/kxllqVSxc" target="_blank">Jogo Freeway - Atari 2600</a>
+
+<a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong</a>
+
+<a href="https://clone-netflix-dio-patyfil.netlify.app/" target="_blank">Clone da Interface do Netflix</a>
+
+<a href="https://google-glass-gustavo-guanabara.netlify.app/" target="_blank">Google Glass - Gustavo Guanabara</a>
+
+<a href="https://siteada.patyfil.repl.co/" target="_blank">Ada Lovelace Website - Programaria</a>
+
+<a href="https://eclos.netlify.app/" target="_blank">Éclos - Landing page - WoMakersCode</a>
+
+<a href="https://javascript-robotron.vercel.app" target="_blank">Robotron - Alura</a>
+
+<a href="https://patyfil.github.io/CursoAluraHTMLeCSS/" target="_blank">Barbearia - Alura</a>
+
+<a href="https://explorer-lab-js-cartao.vercel.app" target="_blank">Cartão de Crédito - Rocketseat</a>
+
+<a href="https://nlw-copa-qatar-trilha-explorer-rocketseat.vercel.app/" target="_blank">Calendário Jogos da Copa Qatar - Rocketseat</a>
+
+
+      
+      
 <br>
 
 
