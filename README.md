@@ -67,13 +67,13 @@
 
 ## 🔭 Alguns projetos:
 
-Deploy: <a href="https://patyfil.github.io/cs50-cc50-harvard/" target="_blank">Curso Harvard - CS50 (EM CONSTRUÇÃO)</a>
+Deploy: <a href="https://patyfil.github.io/cs50-cc50-harvard/" target="_blank">Curso Harvard - CS50 (EM CONSTRUÇÃO)</a>  
 Código: [GitHub](https://github.com/patyfil/cs50-cc50-harvard)
 
-Deploy: <a href="https://editor.p5js.org/patyfil/full/kxllqVSxc" target="_blank">Jogo Freeway - Atari 2600</a>  
+Deploy: <a href="https://editor.p5js.org/patyfil/full/kxllqVSxc" target="_blank">Jogo Freeway - Atari 2600 - Alura</a>  
 Código: [GitHub](https://github.com/patyfil/Jogo-Freeway-Atari-2600-Alura-JavaScript)
 
-Deploy: <a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong</a>  
+Deploy: <a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong - Atari 2600 - Alura</a>  
 Código: [GitHub](https://github.com/patyfil/Jogo-Pong-Alura-JavaScript)
 
 Deploy: <a href="https://clone-netflix-dio-patyfil.netlify.app/" target="_blank">Clone da Interface do Netflix</a>  
