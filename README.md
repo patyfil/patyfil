@@ -67,30 +67,41 @@
 
 ## 🔭 Alguns projetos:
 
-<a href="https://patyfil.github.io/cs50-cc50-harvard/" target="_blank">Curso Harvard - CS50</a>
+Deploy: <a href="https://patyfil.github.io/cs50-cc50-harvard/" target="_blank">Curso Harvard - CS50 (EM CONSTRUÇÃO)</a>
+Código: [GitHub](https://github.com/patyfil/cs50-cc50-harvard)
 
-<a href="https://editor.p5js.org/patyfil/full/kxllqVSxc" target="_blank">Jogo Freeway - Atari 2600</a>
+Deploy: <a href="https://editor.p5js.org/patyfil/full/kxllqVSxc" target="_blank">Jogo Freeway - Atari 2600</a>  
+Código: [GitHub](https://github.com/patyfil/Jogo-Freeway-Atari-2600-Alura-JavaScript)
 
-<a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong</a>
+Deploy: <a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong</a>  
+Código: [GitHub](https://github.com/patyfil/Jogo-Pong-Alura-JavaScript)
 
-<a href="https://clone-netflix-dio-patyfil.netlify.app/" target="_blank">Clone da Interface do Netflix</a>
+Deploy: <a href="https://clone-netflix-dio-patyfil.netlify.app/" target="_blank">Clone da Interface do Netflix</a>  
+Código: [GitHub](https://github.com/patyfil/CursoDioCloneNetflix)
 
-<a href="https://google-glass-gustavo-guanabara.netlify.app/" target="_blank">Google Glass - Gustavo Guanabara</a>
+Deploy: <a href="https://google-glass-gustavo-guanabara.netlify.app/" target="_blank">Google Glass - Gustavo Guanabara</a>  
+Código: [GitHub](https://github.com/patyfil/Curso-HTML5-Gustavo-Guanabara)
 
-<a href="https://siteada.patyfil.repl.co/" target="_blank">Ada Lovelace Website - Programaria</a>
+Deploy: <a href="https://siteada.patyfil.repl.co/" target="_blank">Ada Lovelace Website - Programaria FE1</a>  
+Código: [GitHub](https://github.com/patyfil/siteada.programaria)
 
-<a href="https://eclos.netlify.app/" target="_blank">Éclos - Landing page - WoMakersCode</a>
+Deploy: <a href="https://patyfil.github.io/mulheres-negras-programaria/" target="_blank">Dicionário de Mulheres Negras - Programaria FE2</a>  
+Código: [GitHub](https://github.com/patyfil/mulheres-negras-programaria)  
 
-<a href="https://javascript-robotron.vercel.app" target="_blank">Robotron - Alura</a>
+Deploy: <a href="https://eclos.netlify.app/" target="_blank">Éclos - Landing page - WoMakersCode</a>  
+Código: [GitHub](https://github.com/patyfil/site-eclos)
 
-<a href="https://patyfil.github.io/CursoAluraHTMLeCSS/" target="_blank">Barbearia - Alura</a>
+Deploy: <a href="https://javascript-robotron.vercel.app" target="_blank">Robotron - Alura</a>  
+Código: [GitHub](https://github.com/patyfil/Alura-JavaScript-Robotron)
 
-<a href="https://explorer-lab-js-cartao.vercel.app" target="_blank">Cartão de Crédito - Rocketseat</a>
+Deploy: <a href="https://patyfil.github.io/CursoAluraHTMLeCSS/" target="_blank">Barbearia - Alura</a>  
+Código: [GitHub](https://github.com/patyfil/CursoAluraHTMLeCSS)
 
-<a href="https://nlw-copa-qatar-trilha-explorer-rocketseat.vercel.app/" target="_blank">Calendário Jogos da Copa Qatar - Rocketseat</a>
+Deploy: <a href="https://explorer-lab-js-cartao.vercel.app" target="_blank">Cartão de Crédito - Rocketseat</a>  
+Código: [GitHub](https://github.com/patyfil/rocketseat-explorerLab-JavaScript)
 
-
-      
+Deploy: <a href="https://nlw-copa-qatar-trilha-explorer-rocketseat.vercel.app/" target="_blank">Calendário Jogos da Copa Qatar - Rocketseat</a>  
+Código: [GitHub](https://github.com/patyfil/NLW-CopaQatar-Trilha-Explorer-Rocketseat)      
       
 <br>
 
