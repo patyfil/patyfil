@@ -25,9 +25,36 @@
 <br>  
 
 <!-- ## ✍ &nbsp;Estudando/Learning:   -->
-## :book: &nbsp;Conhecimentos/knowledge:  
+## 🚀 Minhas Skills:  
 
-![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+<code><img height="32" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"/></code>
+
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GitHub"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="Markdown"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"/></code>
+<code><img height="32" src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="Selenium"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" background="white" alt="Jupyter"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Windows Terminal"/></code>
+
+<!-- <code><img height="32" src="" alt="Redux"/></code> -->
+
+
+<!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code> -->
+<!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code> -->
+
+
+
+<!-- ![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-05122A?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=for-the-badge&logo=figma)&nbsp;
@@ -45,7 +72,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite&logoColor=%2307405e)&nbsp;
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-05122A?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
 
 
 <br><br>
