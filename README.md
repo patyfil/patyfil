@@ -26,15 +26,15 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin"/></code> 
+<code><img height="32" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="C"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GitHub"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="Markdown"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP"/></code>
+<code><img height="32" src="https://www.svgrepo.com/show/349474/php.svg" alt="PHP"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"/></code>
 <code><img height="32" src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="Selenium"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" background="white" alt="Jupyter"/></code>
+<code><img height="32" src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Windows Terminal"/></code>
 
 <!-- <code><img height="32" src="" alt="Redux"/></code> -->
