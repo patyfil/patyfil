@@ -116,11 +116,11 @@ Código: [GitHub](https://github.com/patyfil/Jogo-Freeway-Atari-2600-Alura-JavaS
 Deploy: <a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong - Atari 2600 - Alura</a>  
 Código: [GitHub](https://github.com/patyfil/Jogo-Pong-Alura-JavaScript)
 
-Deploy: <a href="https://patyfil.github.io/aluraplus" targe="_blank">AluraPlus - Alura</a>
-Código: [GitHub](https://github.com/patyfil/aluraplus)
+Deploy: <a href="https://patyfil.github.io/aluraplus" targe="_blank">AluraPlus - Alura</a>  
+Código: [GitHub](https://github.com/patyfil/aluraplus)  
 
-Deploy: <a href="https://portfolio-html-e-css-alura.vercel.app/" targe="_blank">Portfólio com HTML e CSS - Alura</a>
-Código: [GitHub](https://github.com/patyfil/portfolio-html-e-css-alura)
+Deploy: <a href="https://portfolio-html-e-css-alura.vercel.app/" targe="_blank">Portfólio com HTML e CSS - Alura</a>  
+Código: [GitHub](https://github.com/patyfil/portfolio-html-e-css-alura)  
 
       
 <br>
