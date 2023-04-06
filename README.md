@@ -125,6 +125,10 @@ Código: [GitHub](https://github.com/patyfil/aluraplus)
 Deploy: <a href="https://portfolio-html-e-css-alura.vercel.app/" targe="_blank">Portfólio (Curso HTML, CSS)</a>  
 Código: [GitHub](https://github.com/patyfil/portfolio-html-e-css-alura)  
 
+Deploy: <a href="https://patyfil.github.io/landing-page-fruta-e-fruto/" targe="_blank">Landing Page - Fruta e Fruto (Curso Bootstrap)</a>  
+Código: [GitHub](https://github.com/patyfil/landing-page-fruta-e-fruto)  
+
+
       
 <br>
 
