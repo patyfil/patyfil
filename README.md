@@ -200,7 +200,7 @@ Código: [GitHub](https://github.com/patyfil/markdown)
 Código: [GitHub](https://github.com/patyfil/readme-template/tree/main)  
 
 ## Código para testar Media Query  
-Deploy: <a href="https://patyfil.github.io/cod-para-testar-media-query/ " target="_blank"></a>  
+Deploy: <a href="https://patyfil.github.io/cod-para-testar-media-query/ " target="_blank">Media Query</a>  
 Código: [GitHub](https://github.com/patyfil/cod-para-testar-media-query)  
 
 ## [ebooks de programação](https://ebookfoundation.github.io/free-programming-books/)  
