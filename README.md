@@ -137,10 +137,10 @@ Código: [GitHub](https://github.com/patyfil/portfolio-html-e-css-alura)
 Deploy: <a href="https://patyfil.github.io/landing-page-fruta-e-fruto/" targe="_blank">Landing Page - Fruta e Fruto (Curso Bootstrap)</a>  
 Código: [GitHub](https://github.com/patyfil/landing-page-fruta-e-fruto)  
 
-Deploy: <a href="patyfil.github.io/javascript-canvas/" targe="_blank">Jogo acerte o alvo (JavaScript e HTML: pratique lógica com desenhos, animações e um jogo [Canvas])</a>  
+Deploy: <a href="https://patyfil.github.io/javascript-canvas/" targe="_blank">Jogo acerte o alvo (JavaScript e HTML: pratique lógica com desenhos, animações e um jogo [Canvas])</a>  
 Código: [GitHub](https://github.com/patyfil/javascript-canvas)  
 
-Deploy: <a href="patyfil.github.io/alura-typer-jquery/" targe="_blank">Alura Typer [Digitação](jQuery: domine a biblioteca mais popular do mercado parte 1)</a>  
+Deploy: <a href="https://patyfil.github.io/alura-typer-jquery/" targe="_blank">Alura Typer [Digitação](jQuery: domine a biblioteca mais popular do mercado parte 1)</a>  
 Código: [GitHub](https://github.com/patyfil/alura-typer-jquery)  
 
 <!-- Deploy: <a href="" targe="_blank"></a>  
