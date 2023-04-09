@@ -77,6 +77,13 @@
 Deploy: <a href="https://patyfil.github.io/cs50-cc50-harvard/" target="_blank">Curso Harvard - CS50 (EM CONSTRUÇÃO)</a>  
 <!-- Código: [GitHub](https://github.com/patyfil/cs50-cc50-harvard) -->
 
+Deploy: <a href="https://patyfil.github.io/laboratorio-maker/" target="_blank">Landing Page Laboratório Maker</a>  
+Código: [GitHub](https://github.com/patyfil/laboratorio-maker)   
+
+Deploy: <a href="https://patyfil.github.io/TelaLogin-RedeSocial-HTML-CSS/" target="_blank">Tela de Login WeCode (Rede Social)</a>  
+Código: [GitHub](https://github.com/patyfil/TelaLogin-RedeSocial-HTML-CSS)  
+
+
 Deploy: <a href="https://clone-netflix-dio-patyfil.netlify.app/" target="_blank">Clone da Interface do Netflix</a>  
 Código: [GitHub](https://github.com/patyfil/CursoDioCloneNetflix)
 
@@ -146,11 +153,40 @@ Código: [GitHub](https://github.com/patyfil/javascript-canvas)
 Deploy: <a href="https://patyfil.github.io/alura-typer-jquery/" target="_blank">Alura Typer [Digitação](jQuery: domine a biblioteca mais popular do mercado parte 1)</a>  
 Código: [GitHub](https://github.com/patyfil/alura-typer-jquery)  
 
+Deploy: <a href="https://patyfil.github.io/alurabooks/" target="_blank">AluraBooks (HTML, CSS e SwiperJS)</a>  
+Código: [GitHub](https://github.com/patyfil/alurabooks)  
+
+#7DaysOfCode: 👩🏽‍💻 Lógica de Programação  
+Código: [GitHub](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript)  
+
+## DIO  
+
+Deploy: <a href="https://clone-instagram-dio-patyfil.netlify.app/" target="_blank">Clone da tela de Login do Instagram</a>  
+Código: [GitHub](https://github.com/patyfil/CursoDioInstagram)  
+
+Deploy: <a href="https://patyfil.github.io/DioJogoDaCobrinha/" target="_blank">Jogo da cobrinha</a>  
+Código: [GitHub](https://github.com/patyfil/DioJogoDaCobrinha)  
+
+
 <!-- Deploy: <a href="" target="_blank"></a>  
 Código: [GitHub]()   -->
 
+# Privado  
+## 10º TreinaDev CampusCode - Ruby on Rails  
+Código: [GitHub](https://github.com/patyfil/TreinaDev_Campus_Code_Ruby)  
 
+## CWI - Reset - 4ª edição  
+Código: [GitHub](https://github.com/patyfil/CwiReset-Edicao-04-level-1)  
 
+## Repositório do programa ConstruDelas - Trilha Python - Módulos 1 e 2  
+Código: [GitHub](https://github.com/patyfil/intro-ao-python)  
+
+## Markdown  
+Código: [GitHub](https://github.com/patyfil/markdown)  
+
+## Código para testar Media Query  
+Deploy: <a href="https://patyfil.github.io/cod-para-testar-media-query/ " target="_blank"></a>  
+Código: [GitHub](https://github.com/patyfil/cod-para-testar-media-query)  
 
 <br>
 
