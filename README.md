@@ -83,12 +83,8 @@ Código: [GitHub](https://github.com/patyfil/laboratorio-maker)
 Deploy: <a href="https://patyfil.github.io/TelaLogin-RedeSocial-HTML-CSS/" target="_blank">Tela de Login WeCode (Rede Social)</a>  
 Código: [GitHub](https://github.com/patyfil/TelaLogin-RedeSocial-HTML-CSS)  
 
-
 Deploy: <a href="https://clone-netflix-dio-patyfil.netlify.app/" target="_blank">Clone da Interface do Netflix</a>  
 Código: [GitHub](https://github.com/patyfil/CursoDioCloneNetflix)
-
-Deploy: <a href="https://google-glass-gustavo-guanabara.netlify.app/" target="_blank">Google Glass - Gustavo Guanabara</a>  
-Código: [GitHub](https://github.com/patyfil/Curso-HTML5-Gustavo-Guanabara)
 
 Deploy: <a href="https://eclos.netlify.app/" target="_blank">Éclos - Landing page - WoMakersCode</a>  
 Código: [GitHub](https://github.com/patyfil/site-eclos)
@@ -98,6 +94,13 @@ Código: [GitHub](https://github.com/patyfil/site-eclos)
 Curso PHP, phpMyAdmin [Rede social WeCode]  
 Código: [GitHub](https://github.com/patyfil/curso-php)  
 
+## Gustavo Guanabara  
+
+Exercícios resolvidos do Curso em Vídeo - Gustavo Guanabara - Python 3  
+Código: [GitHub](https://github.com/patyfil/Curso-Python-Gustavo-Guanabara)  
+
+Deploy: <a href="https://google-glass-gustavo-guanabara.netlify.app/" target="_blank">Google Glass - Gustavo Guanabara</a>  
+Código: [GitHub](https://github.com/patyfil/Curso-HTML5-Gustavo-Guanabara)  
 
 ## Programaria
 
@@ -110,7 +113,8 @@ Código: [GitHub](https://github.com/patyfil/mulheres-negras-programaria)
 ## RocktSeat
 
 Deploy: <a href="https://explorer-lab-js-cartao.vercel.app" target="_blank">Cartão de Crédito (HTML, CSS e JS)</a>  
-Código: [GitHub](https://github.com/patyfil/rocketseat-explorerLab-JavaScript)
+Código: [GitHub](https://github.com/patyfil/rocketseat-explorerLab-JavaScript)  
+[Logos de cartões de crédito](https://github.com/patyfil/payment-logos)  
 
 Deploy: <a href="https://nlw-copa-qatar-trilha-explorer-rocketseat.vercel.app/" target="_blank">Calendário Jogos da Copa Qatar (Curso HTML, CSS e JS)</a>  
 Código: [GitHub](https://github.com/patyfil/NLW-CopaQatar-Trilha-Explorer-Rocketseat)  
@@ -167,11 +171,15 @@ Código: [GitHub](https://github.com/patyfil/CursoDioInstagram)
 Deploy: <a href="https://patyfil.github.io/DioJogoDaCobrinha/" target="_blank">Jogo da cobrinha</a>  
 Código: [GitHub](https://github.com/patyfil/DioJogoDaCobrinha)  
 
+Deploy: <a href="https://bootstrap-dio-patyfil.netlify.app/" target="_blank">Curso Bootstrap</a>  
+Código: [GitHub](https://github.com/patyfil/DioAulaBootstrap)  
+
+
 
 <!-- Deploy: <a href="" target="_blank"></a>  
 Código: [GitHub]()   -->
 
-# Privado  
+# Pessoal  
 ## 10º TreinaDev CampusCode - Ruby on Rails  
 Código: [GitHub](https://github.com/patyfil/TreinaDev_Campus_Code_Ruby)  
 
@@ -181,6 +189,9 @@ Código: [GitHub](https://github.com/patyfil/CwiReset-Edicao-04-level-1)
 ## Repositório do programa ConstruDelas - Trilha Python - Módulos 1 e 2  
 Código: [GitHub](https://github.com/patyfil/intro-ao-python)  
 
+## ConstruDelas Juntos Somos Mais - Gama Academy  
+Código: [GitHub](https://github.com/patyfil/ConstruDelas)
+
 ## Markdown  
 Código: [GitHub](https://github.com/patyfil/markdown)  
 
@@ -188,6 +199,7 @@ Código: [GitHub](https://github.com/patyfil/markdown)
 Deploy: <a href="https://patyfil.github.io/cod-para-testar-media-query/ " target="_blank"></a>  
 Código: [GitHub](https://github.com/patyfil/cod-para-testar-media-query)  
 
+## [ebooks de programação](https://ebookfoundation.github.io/free-programming-books/)  
 <br>
 
 
