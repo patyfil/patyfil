@@ -108,7 +108,7 @@ Código: [GitHub](https://github.com/patyfil/rocketseat-explorerLab-JavaScript)
 Deploy: <a href="https://nlw-copa-qatar-trilha-explorer-rocketseat.vercel.app/" target="_blank">Calendário Jogos da Copa Qatar (Curso HTML, CSS e JS)</a>  
 Código: [GitHub](https://github.com/patyfil/NLW-CopaQatar-Trilha-Explorer-Rocketseat)  
 
-Deploy: <a href="patyfil.github.io/linkMeusProjetos/" targe="_blank">(Agregador de links para usar como cartão de visitas online!)</a>  
+Deploy: <a href="patyfil.github.io/linkMeusProjetos/" targe="_blank">Agregador de links para usar como cartão de visitas online!</a>  
 Código: [GitHub](https://github.com/patyfil/linkMeusProjetos)  
 
 ## Alura
@@ -122,13 +122,13 @@ Código: [GitHub](https://github.com/patyfil/CursoAluraHTMLeCSS)
 Deploy: <a href="https://patyfil.github.io/svg-css-animacao/" target="_blank">Verão (Curso de Vetores e Animação com SVG: trabalhando com CSS e JavaScript)</a>  
 Código: [GitHub](https://github.com/patyfil/svg-css-animacao)
 
-Deploy: <a href="https://editor.p5js.org/patyfil/full/kxllqVSxc" target="_blank">Jogo Freeway - Atari 2600 (Curso Lógica de Programação)</a>  
+Deploy: <a href="https://editor.p5js.org/patyfil/full/kxllqVSxc" target="_blank">Jogo Freeway - Atari 2600 (Curso Lógica de Programação com JavaScript)</a>  
 Código: [GitHub](https://github.com/patyfil/Jogo-Freeway-Atari-2600-Alura-JavaScript)
 
-Deploy: <a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong - Atari 2600 (Curso Lógica de Programação)</a>  
+Deploy: <a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong - Atari 2600 (Curso Lógica de Programação com JavaScript)</a>  
 Código: [GitHub](https://github.com/patyfil/Jogo-Pong-Alura-JavaScript)
 
-Deploy: <a href="https://patyfil.github.io/aluraplus" targe="_blank">AluraPlus (Curso HTML, CSS e JS)</a>  
+Deploy: <a href="https://patyfil.github.io/aluraplus" targe="_blank">AluraPlus Cursos (Curso HTML, CSS e JS)</a>  
 Código: [GitHub](https://github.com/patyfil/aluraplus)  
 
 Deploy: <a href="https://portfolio-html-e-css-alura.vercel.app/" targe="_blank">Portfólio (Curso HTML, CSS)</a>  
@@ -137,10 +137,10 @@ Código: [GitHub](https://github.com/patyfil/portfolio-html-e-css-alura)
 Deploy: <a href="https://patyfil.github.io/landing-page-fruta-e-fruto/" targe="_blank">Landing Page - Fruta e Fruto (Curso Bootstrap)</a>  
 Código: [GitHub](https://github.com/patyfil/landing-page-fruta-e-fruto)  
 
-Deploy: <a href="patyfil.github.io/javascript-canvas/" targe="_blank">Curso JavaScript e HTML: pratique lógica com desenhos, animações e um jogo [Canvas]</a>  
+Deploy: <a href="patyfil.github.io/javascript-canvas/" targe="_blank">Jogo acerte o alvo (JavaScript e HTML: pratique lógica com desenhos, animações e um jogo [Canvas])</a>  
 Código: [GitHub](https://github.com/patyfil/javascript-canvas)  
 
-Deploy: <a href="patyfil.github.io/alura-typer-jquery/" targe="_blank">Curso jQuery: domine a biblioteca mais popular do mercado parte 1 [Alura Typer]</a>  
+Deploy: <a href="patyfil.github.io/alura-typer-jquery/" targe="_blank">Alura Typer [Digitação](jQuery: domine a biblioteca mais popular do mercado parte 1)</a>  
 Código: [GitHub](https://github.com/patyfil/alura-typer-jquery)  
 
 <!-- Deploy: <a href="" targe="_blank"></a>  
