@@ -108,7 +108,7 @@ Código: [GitHub](https://github.com/patyfil/rocketseat-explorerLab-JavaScript)
 Deploy: <a href="https://nlw-copa-qatar-trilha-explorer-rocketseat.vercel.app/" target="_blank">Calendário Jogos da Copa Qatar (Curso HTML, CSS e JS)</a>  
 Código: [GitHub](https://github.com/patyfil/NLW-CopaQatar-Trilha-Explorer-Rocketseat)  
 
-Deploy: <a href="patyfil.github.io/linkMeusProjetos/" targe="_blank">Agregador de links para usar como cartão de visitas online!</a>  
+Deploy: <a href="https://patyfil.github.io/linkMeusProjetos/" targe="_blank">Agregador de links para usar como cartão de visitas online!</a>  
 Código: [GitHub](https://github.com/patyfil/linkMeusProjetos)  
 
 ## Alura
