@@ -88,7 +88,7 @@ Código: [GitHub](https://github.com/patyfil/site-eclos)
 
 ## Curso Programador Web 216h - Qualifica Mais Emprega Mais
 
-Deploy: <a href="" targe="_blank">Curso PHP, phpMyAdmin [Rede social WeCode]</a>  
+Curso PHP, phpMyAdmin [Rede social WeCode]  
 Código: [GitHub](https://github.com/patyfil/curso-php)  
 
 
