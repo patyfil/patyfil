@@ -187,11 +187,11 @@ Código: [GitHub](https://github.com/patyfil/TreinaDev_Campus_Code_Ruby)
 ## CWI - Reset - 4ª edição  
 Código: [GitHub](https://github.com/patyfil/CwiReset-Edicao-04-level-1)  
 
-## Repositório do programa ConstruDelas - Trilha Python - Módulos 1 e 2  
+## ConstruDelas - Trilha Python - Módulos 1 e 2  
 Código: [GitHub](https://github.com/patyfil/intro-ao-python)  
 
-## ConstruDelas Juntos Somos Mais - Gama Academy  
-Código: [GitHub](https://github.com/patyfil/ConstruDelas)
+<!-- ## ConstruDelas Juntos Somos Mais - Gama Academy  
+Código: [GitHub](https://github.com/patyfil/ConstruDelas) -->
 
 ## Markdown  
 Código: [GitHub](https://github.com/patyfil/markdown)  
