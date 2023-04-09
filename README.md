@@ -69,16 +69,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
 
-
 <br>
 
 ## 🔭 Projetos e cursos no github:
 
-Deploy: <a href="https://patyfil.github.io/cs50-cc50-harvard/" target="_blank">Curso Harvard - CS50 (EM CONSTRUÇÃO)</a>  
+Deploy: <a href="https://patyfil.github.io/cs50-cc50-harvard/?target=_blank" target="_blank">Curso Harvard - CS50 (EM CONSTRUÇÃO)</a>  
 <!-- Código: [GitHub](https://github.com/patyfil/cs50-cc50-harvard) -->
 
-Deploy: <a href="https://patyfil.github.io/laboratorio-maker/" target="_blank">Landing Page Laboratório Maker</a>  
-Código: [GitHub](https://github.com/patyfil/laboratorio-maker)   
+Deploy: <a href="https://patyfil.github.io/laboratorio-maker/?target=_blank" target="_blank">Landing Page Laboratório Maker</a>  
+Código: [GitHub](https://github.com/patyfil/laboratorio-maker)       
 
 Deploy: <a href="https://patyfil.github.io/TelaLogin-RedeSocial-HTML-CSS/" target="_blank">Tela de Login WeCode (Rede Social)</a>  
 Código: [GitHub](https://github.com/patyfil/TelaLogin-RedeSocial-HTML-CSS)  
