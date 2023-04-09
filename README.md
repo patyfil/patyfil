@@ -93,6 +93,7 @@ Código: [GitHub](https://github.com/patyfil/site-eclos)
 
 Curso PHP, phpMyAdmin [Rede social WeCode]  
 Código: [GitHub](https://github.com/patyfil/curso-php)  
+[Design Patterns com PHP 7](https://github.com/patyfil/design-patterns-php7): Desenvolva com as melhores soluções  
 
 ## Gustavo Guanabara  
 
@@ -195,11 +196,15 @@ Código: [GitHub](https://github.com/patyfil/ConstruDelas)
 ## Markdown  
 Código: [GitHub](https://github.com/patyfil/markdown)  
 
+## Readme Template  
+Código: [GitHub](https://github.com/patyfil/readme-template/tree/main)  
+
 ## Código para testar Media Query  
 Deploy: <a href="https://patyfil.github.io/cod-para-testar-media-query/ " target="_blank"></a>  
 Código: [GitHub](https://github.com/patyfil/cod-para-testar-media-query)  
 
 ## [ebooks de programação](https://ebookfoundation.github.io/free-programming-books/)  
+
 <br>
 
 
