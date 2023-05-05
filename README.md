@@ -75,111 +75,178 @@
 
 Deploy: <a href="https://patyfil.github.io/cs50-cc50-harvard/" target="_blank">Curso Harvard - CS50 (EM CONSTRUÇÃO)</a>  
 <!-- Código: [GitHub](https://github.com/patyfil/cs50-cc50-harvard) -->
+Tecnologias Utilizadas: Markdown  
+Responsiva: Sim  
 
 Deploy: <a href="https://patyfil.github.io/laboratorio-maker/" target="_blank">Landing Page Laboratório Maker</a>   
-Código: [GitHub](https://github.com/patyfil/laboratorio-maker)         
+Código: [GitHub](https://github.com/patyfil/laboratorio-maker)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim  
 
 Deploy: <a href="https://patyfil.github.io/TelaLogin-RedeSocial-HTML-CSS/" target="_blank">Tela de Login WeCode (Rede Social)</a>  
 Código: [GitHub](https://github.com/patyfil/TelaLogin-RedeSocial-HTML-CSS)  
+Tecnologias Utilizadas: HTML, CSS.    
+Responsiva: Sim  
 
 Deploy: <a href="https://clone-netflix-dio-patyfil.netlify.app/" target="_blank">Clone da Interface do Netflix</a>  
-Código: [GitHub](https://github.com/patyfil/CursoDioCloneNetflix)
+Código: [GitHub](https://github.com/patyfil/CursoDioCloneNetflix)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim  
 
 Deploy: <a href="https://eclos.netlify.app/" target="_blank">Éclos - Landing page - WoMakersCode</a>  
-Código: [GitHub](https://github.com/patyfil/site-eclos)
+Código: [GitHub](https://github.com/patyfil/site-eclos)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim  
 
 ## Curso Programador Web 216h - Qualifica Mais Emprega Mais
 
-Curso PHP, phpMyAdmin [Rede social WeCode]  
+Rede social WeCode    
 Código: [GitHub](https://github.com/patyfil/curso-php)  
-[Design Patterns com PHP 7](https://github.com/patyfil/design-patterns-php7): Desenvolva com as melhores soluções  
+[Design Patterns com PHP 7](https://github.com/patyfil/design-patterns-php7): Desenvolva com as melhores soluções.    
+Tecnologias Utilizadas: HTML, CSS, PHP, MySql, PhpMyAdmin.  
+Responsiva: Sim  
 
 ## Gustavo Guanabara  
 
 Exercícios resolvidos do Curso em Vídeo - Gustavo Guanabara - Python 3  
 Código: [GitHub](https://github.com/patyfil/Curso-Python-Gustavo-Guanabara)  
+Tecnologias Utilizadas: Python.  
 
 Deploy: <a href="https://google-glass-gustavo-guanabara.netlify.app/" target="_blank">Google Glass - Gustavo Guanabara</a>  
 Código: [GitHub](https://github.com/patyfil/Curso-HTML5-Gustavo-Guanabara)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim  
 
 ## Programaria
 
-Deploy: <a href="https://siteada.patyfil.repl.co/" target="_blank">Ada Lovelace Website (Curso FE1 - HTML, CSS e JS)</a>  
-Código: [GitHub](https://github.com/patyfil/siteada.programaria)
+Deploy: <a href="https://siteada.patyfil.repl.co/" target="_blank">Ada Lovelace Website (Curso FE1)</a>  
+Código: [GitHub](https://github.com/patyfil/siteada.programaria)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: ainda não  
 
-Deploy: <a href="https://patyfil.github.io/mulheres-negras-programaria/" target="_blank">Dicionário de Mulheres Negras (Curso FE2 - HTML, CSS e JS)</a>  
+Deploy: <a href="https://patyfil.github.io/mulheres-negras-programaria/" target="_blank">Dicionário de Mulheres Negras (Curso FE2)</a>  
 Código: [GitHub](https://github.com/patyfil/mulheres-negras-programaria)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim  
 
 ## RocktSeat
 
-Deploy: <a href="https://explorer-lab-js-cartao.vercel.app" target="_blank">Cartão de Crédito (HTML, CSS e JS)</a>  
+Deploy: <a href="https://explorer-lab-js-cartao.vercel.app" target="_blank">Cartão de Crédito</a>  
 Código: [GitHub](https://github.com/patyfil/rocketseat-explorerLab-JavaScript)  
 [Logos de cartões de crédito](https://github.com/patyfil/payment-logos)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim  
 
-Deploy: <a href="https://nlw-copa-qatar-trilha-explorer-rocketseat.vercel.app/" target="_blank">Calendário Jogos da Copa Qatar (Curso HTML, CSS e JS)</a>  
+Deploy: <a href="https://nlw-copa-qatar-trilha-explorer-rocketseat.vercel.app/" target="_blank">Calendário Jogos da Copa Qatar</a>  
 Código: [GitHub](https://github.com/patyfil/NLW-CopaQatar-Trilha-Explorer-Rocketseat)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim  
 
 Deploy: <a href="https://patyfil.github.io/linkMeusProjetos/" target="_blank">Agregador de links para usar como cartão de visitas online!</a>  
 Código: [GitHub](https://github.com/patyfil/linkMeusProjetos)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim 
 
 Deploy: <a href="" target="_blank">Landing Pages - Jornada 1ª vaga Rocketseat</a>  
 Código: [GitHub](https://github.com/patyfil/jornada-primeira-vaga-rocketseat)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim 
 
 ## Alura
 
-Deploy: <a href="https://javascript-robotron.vercel.app" target="_blank">Robotron (Curso HTML, CSS e JS)</a>  
-Código: [GitHub](https://github.com/patyfil/Alura-JavaScript-Robotron)
+Deploy: <a href="https://javascript-robotron.vercel.app" target="_blank">Robotron</a>  
+Código: [GitHub](https://github.com/patyfil/Alura-JavaScript-Robotron)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim 
 
-Deploy: <a href="https://patyfil.github.io/CursoAluraHTMLeCSS/" target="_blank">Barbearia Alura (Curso HTML, CSS)</a>  
-Código: [GitHub](https://github.com/patyfil/CursoAluraHTMLeCSS)
+Deploy: <a href="https://patyfil.github.io/CursoAluraHTMLeCSS/" target="_blank">Barbearia Alura</a>  
+Código: [GitHub](https://github.com/patyfil/CursoAluraHTMLeCSS)  
+Tecnologias Utilizadas: HTML, CSS.  
+Responsiva: Sim 
 
 Deploy: <a href="https://patyfil.github.io/svg-css-animacao/" target="_blank">Verão (Curso de Vetores e Animação com SVG: trabalhando com CSS e JavaScript)</a>  
-Código: [GitHub](https://github.com/patyfil/svg-css-animacao)
+Código: [GitHub](https://github.com/patyfil/svg-css-animacao)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim 
 
-Deploy: <a href="https://editor.p5js.org/patyfil/full/kxllqVSxc" target="_blank">Jogo Freeway - Atari 2600 (Curso Lógica de Programação com JavaScript)</a>  
-Código: [GitHub](https://github.com/patyfil/Jogo-Freeway-Atari-2600-Alura-JavaScript)
+Deploy: <a href="https://editor.p5js.org/patyfil/full/kxllqVSxc" target="_blank">Jogo Freeway - Atari 2600 (Curso Lógica de Programação)</a>  
+Código: [GitHub](https://github.com/patyfil/Jogo-Freeway-Atari-2600-Alura-JavaScript)  
+Tecnologias Utilizadas: JavaScript.  
+Responsiva: Sim 
 
-Deploy: <a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong - Atari 2600 (Curso Lógica de Programação com JavaScript)</a>  
-Código: [GitHub](https://github.com/patyfil/Jogo-Pong-Alura-JavaScript)
+Deploy: <a href="https://editor.p5js.org/patyfil/full/dRUDXaarY" target="_blank">Jogo Pong - Atari 2600 (Curso Lógica de Programação)</a>  
+Código: [GitHub](https://github.com/patyfil/Jogo-Pong-Alura-JavaScript)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim 
 
-Deploy: <a href="https://patyfil.github.io/aluraplus" target="_blank">AluraPlus Cursos (Curso HTML, CSS e JS)</a>  
+Deploy: <a href="https://patyfil.github.io/aluraplus" target="_blank">AluraPlus Cursos</a>  
 Código: [GitHub](https://github.com/patyfil/aluraplus)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim 
 
-Deploy: <a href="https://portfolio-html-e-css-alura.vercel.app/" target="_blank">Portfólio (Curso HTML, CSS)</a>  
+Deploy: <a href="https://portfolio-html-e-css-alura.vercel.app/" target="_blank">Portfólio</a>  
 Código: [GitHub](https://github.com/patyfil/portfolio-html-e-css-alura)  
+Tecnologias Utilizadas: HTML, CSS.  
+Responsiva: Sim 
 
-Deploy: <a href="https://patyfil.github.io/landing-page-fruta-e-fruto/" target="_blank">Landing Page - Fruta e Fruto (Curso Bootstrap)</a>  
+Deploy: <a href="https://patyfil.github.io/landing-page-fruta-e-fruto/" target="_blank">Landing Page - Fruta e Fruto</a>  
 Código: [GitHub](https://github.com/patyfil/landing-page-fruta-e-fruto)  
+Tecnologias Utilizadas: HTML, CSS, Bootstrap, JavaScript.  
+Responsiva: Sim 
 
 Deploy: <a href="https://patyfil.github.io/javascript-canvas/" target="_blank">Jogo acerte o alvo (JavaScript e HTML: pratique lógica com desenhos, animações e um jogo [Canvas])</a>  
 Código: [GitHub](https://github.com/patyfil/javascript-canvas)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript, Canvas.  
+Responsiva: Sim 
 
 Deploy: <a href="https://patyfil.github.io/alura-typer-jquery/" target="_blank">Alura Typer [Digitação](jQuery: domine a biblioteca mais popular do mercado parte 1)</a>  
 Código: [GitHub](https://github.com/patyfil/alura-typer-jquery)  
+Tecnologias Utilizadas: HTML, CSS, jQuery.  
+Responsiva: Sim 
 
 Deploy: <a href="https://patyfil.github.io/alurabooks/" target="_blank">AluraBooks (HTML, CSS e SwiperJS)</a>  
 Código: [GitHub](https://github.com/patyfil/alurabooks)  
+Tecnologias Utilizadas: HTML, CSS, SwiperJS.  
+Responsiva: Sim 
 
 #7DaysOfCode: 👩🏽‍💻 Lógica de Programação  
 Código: [GitHub](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
 
 ## DIO  
 
 Deploy: <a href="https://clone-instagram-dio-patyfil.netlify.app/" target="_blank">Clone da tela de Login do Instagram</a>  
 Código: [GitHub](https://github.com/patyfil/CursoDioInstagram)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva: Sim 
 
 Deploy: <a href="https://patyfil.github.io/DioJogoDaCobrinha/" target="_blank">Jogo da cobrinha</a>  
 Código: [GitHub](https://github.com/patyfil/DioJogoDaCobrinha)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+Responsiva:  
 
 Deploy: <a href="https://bootstrap-dio-patyfil.netlify.app/" target="_blank">Curso Bootstrap</a>  
 Código: [GitHub](https://github.com/patyfil/DioAulaBootstrap)  
+Tecnologias Utilizadas: HTML, CSS, Bootstrap.  
+Responsiva: Não 
 
+## EBAC  
+Deploy: <a href="https://tela-login-de6a2.web.app/" target="_blank">Tela de Login</a>  
+Código: [GitHub](https://github.com/patyfil/tela_login_ebac)  
+Tecnologias Utilizadas: HTML, CSS, JavaScript, Firebase.  
+Responsiva: Sim  
 
 
 <!-- Deploy: <a href="" target="_blank"></a>  
-Código: [GitHub]()   -->
+Código: [GitHub]()   
+Tecnologias Utilizadas: HTML, CSS, JavaScript, Firebase  
+Responsiva: Sim  -->
 
 # Pessoal  
+
+## Jovem Programador - SENAC - Edição 2023  
+Código: [GitHub](https://github.com/patyfil/jovem-programador-senac)  
+
 ## 10º TreinaDev CampusCode - Ruby on Rails  
 Código: [GitHub](https://github.com/patyfil/TreinaDev_Campus_Code_Ruby)  
 
