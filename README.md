@@ -83,7 +83,7 @@ Código: [GitHub](https://github.com/patyfil/laboratorio-maker)
 Tecnologias Utilizadas: HTML, CSS, JavaScript.  
 Responsiva: Sim  
 
-Deploy: <a href="https://patyfil.github.io/TelaLogin-RedeSocial-HTML-CSS/" target="_blank">Tela de Login WeCode (Rede Social)</a>  
+Deploy: <a href="https://patyfil.github.io/TelaLogin-RedeSocial-HTML-CSS/" target="_blank">Tela de Login Rede Social</a>  
 Código: [GitHub](https://github.com/patyfil/TelaLogin-RedeSocial-HTML-CSS)  
 Tecnologias Utilizadas: HTML, CSS.    
 Responsiva: Sim  
