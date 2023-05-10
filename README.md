@@ -48,7 +48,10 @@
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patyfil&layout=compact&theme=radical" alt="patricia's most languages"/>  
 </p>
 
-
+![Snake animation](https://github.com/patyfil/patyfil/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
 <!-- ![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-05122A?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
