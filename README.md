@@ -240,13 +240,13 @@ Tecnologias Utilizadas: HTML, CSS, JavaScript, Firebase.
 Responsiva: Sim  
 
 ## Dev em dobro  
-Deploy: <a href="patyfil.github.io/pokemon/" target="_blank">Pokedéx</a>  
+Deploy: <a href="https://patyfil.github.io/pokemon/" target="_blank">Pokedéx</a>  
 Código: [GitHub](https://github.com/patyfil/pokemon)   
 Tecnologias Utilizadas: HTML, CSS, JavaScript.  
 Responsiva: Sim  
 
 
-<!-- Deploy: <a href="" target="_blank"></a>  
+<!-- Deploy: <a href="https://" target="_blank"></a>  
 Código: [GitHub]()   
 Tecnologias Utilizadas: HTML, CSS, JavaScript, Firebase  
 Responsiva: Sim  -->
