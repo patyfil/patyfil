@@ -216,7 +216,7 @@ Responsiva: Sim
 Código: [GitHub](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript)  
 Tecnologias Utilizadas: HTML, CSS, JavaScript.  
 
-Deploy: <a href="https://https://clube-do-livro-prioli-karnal.vercel.app/" target="_blank">Organo - React</a>  
+Deploy: <a href="https://https://clube-do-livro-prioli-karnal.vercel.app/" target="_blank">React: desenvolvendo com JavaScript - Alura</a>  
 Código: [GitHub](https://github.com/patyfil/clube-do-livro-prioli-karnal)   
 Tecnologias Utilizadas: HTML, CSS, JavaScript, React  
 Responsiva: Sim 
