@@ -207,7 +207,7 @@ Código: [GitHub](https://github.com/patyfil/alura-typer-jquery)
 Tecnologias Utilizadas: HTML, CSS, jQuery.  
 Responsiva: Sim 
 
-Deploy: <a href="https://patyfil.github.io/alurabooks/" target="_blank">AluraBooks (HTML, CSS e SwiperJS)</a>  
+Deploy: <a href="https://patyfil.github.io/alurabooks/" target="_blank">AluraBooks</a>  
 Código: [GitHub](https://github.com/patyfil/alurabooks)  
 Tecnologias Utilizadas: HTML, CSS, SwiperJS.  
 Responsiva: Sim 
@@ -215,6 +215,12 @@ Responsiva: Sim
 #7DaysOfCode: 👩🏽‍💻 Lógica de Programação  
 Código: [GitHub](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript)  
 Tecnologias Utilizadas: HTML, CSS, JavaScript.  
+
+Deploy: <a href="https://https://clube-do-livro-prioli-karnal.vercel.app/" target="_blank">Organo - React</a>  
+Código: [GitHub](https://github.com/patyfil/clube-do-livro-prioli-karnal)   
+Tecnologias Utilizadas: HTML, CSS, JavaScript, React  
+Responsiva: Sim 
+
 
 ## DIO  
 
