@@ -251,6 +251,13 @@ Código: [GitHub](https://github.com/patyfil/pokemon)
 Tecnologias Utilizadas: HTML, CSS, JavaScript.  
 Responsiva: Sim  
 
+## Kenzie Academy  
+Deploy: <a href="https://patyfil.github.io/app-sorteio-nomes/" target="_blank">App Sorteio de Nomes</a>  
+Código: [GitHub](https://github.com/patyfil/app-sorteio-nomes)   
+Tecnologias Utilizadas: HTML, CSS, JavaScript  
+Responsiva: Sim  
+
+
 
 <!-- Deploy: <a href="https://" target="_blank"></a>  
 Código: [GitHub]()   
