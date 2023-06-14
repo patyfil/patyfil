@@ -216,11 +216,15 @@ Responsiva: Sim
 Código: [GitHub](https://github.com/patyfil/7DaysOfCode-Alura-JavaScript)  
 Tecnologias Utilizadas: HTML, CSS, JavaScript.  
 
-Deploy: <a href="https://clube-do-livro-prioli-karnal.vercel.app/" target="_blank">React: desenvolvendo com JavaScript - Alura</a>  
+Deploy: <a href="https://clube-do-livro-prioli-karnal.vercel.app/" target="_blank">React: desenvolvendo com JavaScript</a>  
 Código: [GitHub](https://github.com/patyfil/clube-do-livro-prioli-karnal)   
 Tecnologias Utilizadas: HTML, CSS, JavaScript, React  
 Responsiva: Sim 
 
+Deploy: <a href="https://patyfil.github.io/jogo-numero-secreto/" target="_blank">JavaScript: validações e reconhecimento de voz</a>  
+Código: [GitHub](https://github.com/patyfil/jogo-numero-secreto)   
+Tecnologias Utilizadas: HTML, CSS, JavaScript  
+Responsiva: Sim  
 
 ## DIO  
 
