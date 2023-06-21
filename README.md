@@ -122,11 +122,9 @@ Código: [GitHub](https://github.com/patyfil/pokemon)
 Tecnologias Utilizadas: HTML, CSS, JavaScript.  
 Responsiva: Sim  
 
-## Kenzie Academy  
-Deploy: <a href="https://patyfil.github.io/app-sorteio-nomes/" target="_blank">App Sorteio de Nomes</a>  
-Código: [GitHub](https://github.com/patyfil/app-sorteio-nomes)   
-Tecnologias Utilizadas: HTML, CSS, JavaScript  
-Responsiva: Sim  
+## Código para testar Media Query  
+Deploy: <a href="https://patyfil.github.io/cod-para-testar-media-query/ " target="_blank">Media Query</a>  
+Código: [GitHub](https://github.com/patyfil/cod-para-testar-media-query)  
 
 
 
@@ -137,6 +135,3 @@ Responsiva: Sim  -->
 
 
 
-## Código para testar Media Query  
-Deploy: <a href="https://patyfil.github.io/cod-para-testar-media-query/ " target="_blank">Media Query</a>  
-Código: [GitHub](https://github.com/patyfil/cod-para-testar-media-query)  
