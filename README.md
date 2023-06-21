@@ -102,11 +102,6 @@ Código: [GitHub](https://github.com/patyfil/Alura-JavaScript-Robotron)
 Tecnologias Utilizadas: HTML, CSS, JavaScript.  
 Responsiva: Sim 
 
-Deploy: <a href="https://patyfil.github.io/CursoAluraHTMLeCSS/" target="_blank">Barbearia Alura</a>  
-Código: [GitHub](https://github.com/patyfil/CursoAluraHTMLeCSS)  
-Tecnologias Utilizadas: HTML, CSS.  
-Responsiva: Sim 
-
 Deploy: <a href="https://patyfil.github.io/svg-css-animacao/" target="_blank">Verão (Curso de Vetores e Animação com SVG: trabalhando com CSS e JavaScript)</a>  
 Código: [GitHub](https://github.com/patyfil/svg-css-animacao)  
 Tecnologias Utilizadas: HTML, CSS, JavaScript.  
