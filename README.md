@@ -37,16 +37,25 @@
 <code><img height="32" src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Windows Terminal"/></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patyfil&layout=compact&theme=radical)](https://github.com/patyfil/github-readme-stats)
 <!-- <code><img height="32" src="" alt="Redux"/></code> -->
 
 ## 💿 &nbsp;Sistema Operacional/SO:  
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=black)
 
-<p align="left">
+<!-- <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=patyfil&&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="patricia's stats"/>  <br><br>
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patyfil&layout=compact&theme=radical" alt="patricia's most languages"/>  
-</p>
+</p>-->
+
+## :gear: &nbsp;GitHub Analytics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patyfil&show_icons=true&theme=radical&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patyfil&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+
 
 ![Snake animation](https://github.com/patyfil/patyfil/blob/output/github-contribution-grid-snake.svg)
   
