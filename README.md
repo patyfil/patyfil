@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I’m <i>Patrícia</i> </h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou <i>Patrícia</i> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patyfil&color=yellow" alt="Profile views" /> </p>
 
 <br> 
@@ -13,7 +13,7 @@
 <br>  
 
 - 🌱 Atualmente estou aprendendo JavaScript.  
-- ⚡ Curiosity: Sou formada em Redes de Computadores, apaixonada por eletrônica e cultura maker.  
+- ⚡ Curiosidade: Sou formada em Redes de Computadores, apaixonada por eletrônica e cultura maker.  
 
 <br>  
 
