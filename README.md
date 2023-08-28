@@ -56,10 +56,9 @@
 
 
 
-
-
 ![Snake animation](https://github.com/patyfil/patyfil/blob/output/github-contribution-grid-snake.svg)
-  
+
+
   
 <br>
 
