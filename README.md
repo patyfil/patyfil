@@ -65,9 +65,14 @@
 ## 🔭 Projetos pessoais:
 
 Deploy: <a href="https://patyfil.github.io/cs50-cc50-harvard/" target="_blank">Curso Harvard - CS50 (EM CONSTRUÇÃO)</a>  
-<!-- Código: [GitHub](https://github.com/patyfil/cs50-cc50-harvard) -->
 Tecnologias Utilizadas: Markdown  
 Responsiva: Sim  
+<!-- Código: [GitHub](https://github.com/patyfil/cs50-cc50-harvard) -->
+
+Deploy: <a href="https://patyfil.github.io/receitas-para-compartilhar/" target="_blank">Receitas para compartilhar [em construção]</a>   
+Tecnologias Utilizadas: HTML, CSS, JavaScript, jQuery, Django.  
+Responsiva: Sim  
+<!-- Código: [GitHub]()  -->
 
 Deploy: <a href="https://patyfil.github.io/laboratorio-maker/" target="_blank">Landing Page Laboratório Maker</a>   
 Código: [GitHub](https://github.com/patyfil/laboratorio-maker)  
