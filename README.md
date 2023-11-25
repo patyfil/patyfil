@@ -70,7 +70,7 @@ Responsiva: Sim
 <!-- Código: [GitHub](https://github.com/patyfil/cs50-cc50-harvard) -->
 
 Deploy: <a href="https://patyfil.pythonanywhere.com/login/ " target="_blank">Receitas para compartilhar</a>   
-Tecnologias Utilizadas: HTML, CSS, JavaScript, jQuery, Django.  
+Tecnologias Utilizadas: HTML, CSS, JavaScript, jQuery, Django, Python.  
 Responsiva: Sim  
 <!-- Código: [GitHub]()  -->
 
