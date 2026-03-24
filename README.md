@@ -13,7 +13,7 @@
 
 <br>  
 
-- 🌱 Atualmente estou aprendendo JavaScript e Django.  
+- 🌱 Atualmente estou aprendendo JavaScript e React.  
 - ⚡ Curiosidade: Sou formada em Redes de Computadores, apaixonada por eletrônica e cultura maker.  
 
 <br>  
